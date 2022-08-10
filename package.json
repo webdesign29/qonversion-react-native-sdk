@@ -5,7 +5,7 @@
   "description": "Qonversion provides full in-app purchases infrastructure, so you do not need to build your own server for receipt validation. Implement in-app subscriptions, validate user receipts, check subscription status, and provide access to your app features and content using our StoreKit wrapper and Google Play Billing wrapper.",
   "main": "build/index.js",
   "scripts": {
-    "prepare": "rm -rf build && tsc",
+    "prepare": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -32,9 +32,9 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "typescript": "^4.2.4",
     "@types/react": "*",
-    "@types/react-native": "*"
+    "@types/react-native": "*",
+    "typescript": "^4.2.4"
   },
   "peerDependencies": {
     "react": "^16.8.1",
