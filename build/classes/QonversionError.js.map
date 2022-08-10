@@ -1,0 +1,1 @@
+{"version":3,"file":"QonversionError.js","sourceRoot":"","sources":["../../src/classes/QonversionError.ts"],"names":[],"mappings":";;AAAA,MAAM,eAAe;IAKnB,YACE,IAAY,EACZ,WAAmB,EACnB,iBAAyB;QAEzB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,WAAW,GAAG,WAAW,CAAC;QAC/B,IAAI,CAAC,iBAAiB,GAAG,iBAAiB,CAAC;IAC7C,CAAC;CACF;AAED,kBAAe,eAAe,CAAC"}

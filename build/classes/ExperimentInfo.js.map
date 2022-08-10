@@ -1,0 +1,1 @@
+{"version":3,"file":"ExperimentInfo.js","sourceRoot":"","sources":["../../src/classes/ExperimentInfo.ts"],"names":[],"mappings":";;AAEA,MAAM,cAAc;IAIlB,YAAY,UAAkB,EAAE,KAAsB;QACpD,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAC7B,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACrB,CAAC;CACF;AAED,kBAAe,cAAc,CAAC"}

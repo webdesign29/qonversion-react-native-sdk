@@ -1,0 +1,1 @@
+{"version":3,"file":"ActionResult.js","sourceRoot":"","sources":["../../src/classes/ActionResult.ts"],"names":[],"mappings":";;AAGA,MAAM,YAAY;IAMhB,YACE,IAAsB,EACtB,KAAkD,EAClD,KAAkC;QAElC,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;QACnB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACrB,CAAC;CACF;AAED,kBAAe,YAAY,CAAC"}
